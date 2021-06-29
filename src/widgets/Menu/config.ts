@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/TradeScapeChat",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -164,24 +164,24 @@ export const socials = [
       },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "#",
       },
-      {
-        label: "Price Bot",
-        href: "https://t.me/BinanceRocketEGG",
-      },
+      // {
+      //  label: "Price Bot",
+      //  href: "https://t.me/BinanceRocketEGG",
+      // },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/goosedefi",
+    href: "#",
   },
-  {
-    label: "Reddit",
-    icon: "RedditIcon",
-    href: "https://www.reddit.com/r/GooseFinanceofficial",
-  },
+  // {
+  //  label: "Reddit",
+  //  icon: "RedditIcon",
+  //  href: "https://www.reddit.com/r/GooseFinanceofficial",
+  // },
 ];
 
 export const MENU_HEIGHT = 64;
