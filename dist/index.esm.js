@@ -2215,7 +2215,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/goosedefi",
+                href: "https://t.me/TradeScapeChat",
             },
             // {
             //   label: "Bahasa Indonesia",
@@ -2259,24 +2259,24 @@ var socials = [
             },
             {
                 label: "Announcements",
-                href: "https://t.me/goosefinanceann",
+                href: "#",
             },
-            {
-                label: "Price Bot",
-                href: "https://t.me/BinanceRocketEGG",
-            },
+            // {
+            //    label: "Price Bot",
+            //    href: "#",
+            // },
         ],
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/goosedefi",
+        href: "#",
     },
-    {
-        label: "Reddit",
-        icon: "RedditIcon",
-        href: "https://www.reddit.com/r/GooseFinanceofficial",
-    },
+    // {
+    //    label: "Reddit",
+    //    icon: "RedditIcon",
+    //    href: "https://www.reddit.com/r/GooseFinanceofficial",
+    // },
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
